@@ -15,3 +15,7 @@ This project is a test of the use of socket. io with for NativeScript + Vue.js p
 ## Server
 
 This application is only half of the project that communicates with a server whose code is also available here: https://github.com/Gonzalo2310/PanelDraw-Server
+
+## Contributions:
+
+Original code of the app https://play.nativescript.org/?template=play-vue&id=nbDfjl
