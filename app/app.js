@@ -13,7 +13,7 @@ new Vue({
           
         </StackLayout>
 
-        <StackLayout v-for="(point, i) in points" :top="point.y" :left="point.x" :width="i+5" :height="i+5" style="border-width: 1; border-color: blue; background-color: cyan; border-radius: 50%;" >
+        <StackLayout :key="i" v-for="(point, i) in points" :top="point.y" :left="point.x" :width="i+5" :height="i+5" style="border-width: 1; border-color: blue; background-color: cyan; border-radius: 50%;" >
         </StackLayout>
       </AbsoluteLayout>
     </Page>
