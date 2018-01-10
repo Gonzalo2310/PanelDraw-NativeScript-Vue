@@ -2,7 +2,7 @@
   "description": "Panel Draw. Test of concepts",
   "license": "ISC",
   "readme": "NativeScript Application",
-  "repository": "<fill-your-repository-here>",
+  "repository": "https://github.com/Gonzalo2310/PanelDraw-Server",
   "nativescript": {
     "id": "org.nativescript.ClientApp",
     "tns-android": {
